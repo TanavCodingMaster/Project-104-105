@@ -1,0 +1,12 @@
+body{
+    background-image: url(https://www.ivint.org/wp-content/uploads/2017/09/Family.jpg);
+    background-size: cover;
+}
+
+#Heading {
+    color: blue;
+}
+
+#Description {
+    color : green;
+}
